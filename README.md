@@ -1,16 +1,34 @@
-## Hi there 👋
+# TARIKUL ISLAM
 
-<!--
-**itz-paglu/itz-paglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./itz-paglu-assets/banner.svg" alt="banner" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./itz-paglu-assets/animated_profile.svg" alt="profile" width="640"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paglu_dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itz-paglu)
+</div>
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="./itz-paglu-assets/metrics.svg" alt="metrics" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./itz-paglu-assets/github-contribution-grid-snake.svg" alt="snake" width="820"/>
+</p>
+
+## 🛠️ Tech Stack
+- Python
+- PostgreSQL
+- Vercel
+- Render
+- Railway
+
+---
+
+*I am not professional but I learn first and then I build.*
