@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="820" height="160" viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cell { fill:#0b1220; stroke:#0f1724; }
+    .active { fill:#16a34a; }
+    .snake { fill:none; stroke:#7c3aed; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+    .dash { stroke-dasharray: 400; stroke-dashoffset: 400; animation: dash 4s linear infinite; }
+    @keyframes dash {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+  <rect width="820" height="160" rx="8" fill="#071123"/>
+  <g transform="translate(20,20)">
+    <rect x="0" y="0" width="22" height="22" class="cell"/>
+    <rect x="28" y="0" width="22" height="22" class="cell"/>
+    <rect x="56" y="0" width="22" height="22" class="cell"/>
+    <rect x="84" y="0" width="22" height="22" class="cell"/>
+    <rect x="112" y="0" width="22" height="22" class="cell"/>
+    <rect x="140" y="0" width="22" height="22" class="cell"/>
+    <rect x="168" y="0" width="22" height="22" class="cell"/>
+    <rect x="196" y="0" width="22" height="22" class="cell"/>
+    <rect x="224" y="0" width="22" height="22" class="cell"/>
+    <rect x="252" y="0" width="22" height="22" class="cell"/>
+    <rect x="280" y="0" width="22" height="22" class="cell"/>
+    <rect x="308" y="0" width="22" height="22" class="cell"/>
+    <rect x="336" y="0" width="22" height="22" class="cell"/>
+    <rect x="364" y="0" width="22" height="22" class="cell"/>
+    <rect x="392" y="0" width="22" height="22" class="cell"/>
+    <rect x="420" y="0" width="22" height="22" class="cell"/>
+    <rect x="448" y="0" width="22" height="22" class="cell"/>
+    <rect x="476" y="0" width="22" height="22" class="cell"/>
+    <rect x="504" y="0" width="22" height="22" class="cell"/>
+    <rect x="532" y="0" width="22" height="22" class="cell"/>
+    <rect x="560" y="0" width="22" height="22" class="cell"/>
+    <rect x="588" y="0" width="22" height="22" class="cell"/>
+    <rect x="616" y="0" width="22" height="22" class="cell"/>
+    <rect x="644" y="0" width="22" height="22" class="cell"/>
+    <rect x="672" y="0" width="22" height="22" class="cell"/>
+    <rect x="700" y="0" width="22" height="22" class="cell"/>
+    <rect x="728" y="0" width="22" height="22" class="cell"/>
+    <rect x="756" y="0" width="22" height="22" class="cell"/>
+    <rect x="784" y="0" width="22" height="22" class="cell"/>
+    <rect x="812" y="0" width="22" height="22" class="cell"/>
+    <rect x="0" y="28" width="22" height="22" class="cell"/>
+    <rect x="28" y="28" width="22" height="22" class="cell"/>
+    <rect x="56" y="28" width="22" height="22" class="cell"/>
+    <rect x="84" y="28" width="22" height="22" class="cell"/>
+    <rect x="112" y="28" width="22" height="22" class="cell"/>
+    <rect x="140" y="28" width="22" height="22" class="cell"/>
+    <rect x="168" y="28" width="22" height="22" class="cell"/>
+    <rect x="196" y="28" width="22" height="22" class="cell"/>
+    <rect x="224" y="28" width="22" height="22" class="cell"/>
+    <rect x="252" y="28" width="22" height="22" class="cell"/>
+    <rect x="280" y="28" width="22" height="22" class="cell"/>
+    <rect x="308" y="28" width="22" height="22" class="cell"/>
+    <rect x="336" y="28" width="22" height="22" class="cell"/>
+    <rect x="364" y="28" width="22" height="22" class="cell"/>
+    <rect x="392" y="28" width="22" height="22" class="cell"/>
+    <rect x="420" y="28" width="22" height="22" class="cell"/>
+    <rect x="448" y="28" width="22" height="22" class="cell"/>
+    <rect x="476" y="28" width="22" height="22" class="cell"/>
+    <rect x="504" y="28" width="22" height="22" class="cell"/>
+    <rect x="532" y="28" width="22" height="22" class="cell"/>
+    <rect x="560" y="28" width="22" height="22" class="cell"/>
+    <rect x="588" y="28" width="22" height="22" class="cell"/>
+    <rect x="616" y="28" width="22" height="22" class="cell"/>
+    <rect x="644" y="28" width="22" height="22" class="cell"/>
+    <rect x="672" y="28" width="22" height="22" class="cell"/>
+    <rect x="700" y="28" width="22" height="22" class="cell"/>
+    <rect x="728" y="28" width="22" height="22" class="cell"/>
+    <rect x="756" y="28" width="22" height="22" class="cell"/>
+    <rect x="784" y="28" width="22" height="22" class="cell"/>
+    <rect x="812" y="28" width="22" height="22" class="cell"/>
+    <rect x="0" y="56" width="22" height="22" class="cell"/>
+    <rect x="28" y="56" width="22" height="22" class="cell"/>
+    <rect x="56" y="56" width="22" height="22" class="cell"/>
+    <rect x="84" y="56" width="22" height="22" class="cell"/>
+    <rect x="112" y="56" width="22" height="22" class="cell"/>
+    <rect x="140" y="56" width="22" height="22" class="cell"/>
+    <rect x="168" y="56" width="22" height="22" class="cell"/>
+    <rect x="196" y="56" width="22" height="22" class="cell"/>
+    <rect x="224" y="56" width="22" height="22" class="cell"/>
+    <rect x="252" y="56" width="22" height="22" class="cell"/>
+    <rect x="280" y="56" width="22" height="22" class="cell"/>
+    <rect x="308" y="56" width="22" height="22" class="cell"/>
+    <rect x="336" y="56" width="22" height="22" class="cell"/>
+    <rect x="364" y="56" width="22" height="22" class="cell"/>
+    <rect x="392" y="56" width="22" height="22" class="cell"/>
+    <rect x="420" y="56" width="22" height="22" class="cell"/>
+    <rect x="448" y="56" width="22" height="22" class="cell"/>
+    <rect x="476" y="56" width="22" height="22" class="cell"/>
+    <rect x="504" y="56" width="22" height="22" class="cell"/>
+    <rect x="532" y="56" width="22" height="22" class="cell"/>
+    <rect x="560" y="56" width="22" height="22" class="cell"/>
+    <rect x="588" y="56" width="22" height="22" class="cell"/>
+    <rect x="616" y="56" width="22" height="22" class="cell"/>
+    <rect x="644" y="56" width="22" height="22" class="cell"/>
+    <rect x="672" y="56" width="22" height="22" class="cell"/>
+    <rect x="700" y="56" width="22" height="22" class="cell"/>
+    <rect x="728" y="56" width="22" height="22" class="cell"/>
+    <rect x="756" y="56" width="22" height="22" class="cell"/>
+    <rect x="784" y="56" width="22" height="22" class="cell"/>
+    <rect x="812" y="56" width="22" height="22" class="cell"/>
+    <rect x="0" y="84" width="22" height="22" class="cell"/>
+    <rect x="28" y="84" width="22" height="22" class="cell"/>
+    <rect x="56" y="84" width="22" height="22" class="cell"/>
+    <rect x="84" y="84" width="22" height="22" class="cell"/>
+    <rect x="112" y="84" width="22" height="22" class="cell"/>
+    <rect x="140" y="84" width="22" height="22" class="cell"/>
+    <rect x="168" y="84" width="22" height="22" class="cell"/>
+    <rect x="196" y="84" width="22" height="22" class="cell"/>
+    <rect x="224" y="84" width="22" height="22" class="cell"/>
+    <rect x="252" y="84" width="22" height="22" class="cell"/>
+    <rect x="280" y="84" width="22" height="22" class="cell"/>
+    <rect x="308" y="84" width="22" height="22" class="cell"/>
+    <rect x="336" y="84" width="22" height="22" class="cell"/>
+    <rect x="364" y="84" width="22" height="22" class="cell"/>
+    <rect x="392" y="84" width="22" height="22" class="cell"/>
+    <rect x="420" y="84" width="22" height="22" class="cell"/>
+    <rect x="448" y="84" width="22" height="22" class="cell"/>
+    <rect x="476" y="84" width="22" height="22" class="cell"/>
+    <rect x="504" y="84" width="22" height="22" class="cell"/>
+    <rect x="532" y="84" width="22" height="22" class="cell"/>
+    <rect x="560" y="84" width="22" height="22" class="cell"/>
+    <rect x="588" y="84" width="22" height="22" class="cell"/>
+    <rect x="616" y="84" width="22" height="22" class="cell"/>
+    <rect x="644" y="84" width="22" height="22" class="cell"/>
+    <rect x="672" y="84" width="22" height="22" class="cell"/>
+    <rect x="700" y="84" width="22" height="22" class="cell"/>
+    <rect x="728" y="84" width="22" height="22" class="cell"/>
+    <rect x="756" y="84" width="22" height="22" class="cell"/>
+    <rect x="784" y="84" width="22" height="22" class="cell"/>
+    <rect x="812" y="84" width="22" height="22" class="cell"/>
+  <path d="M 0 22 L 330 22 L 330 110 L 660 110 L 660 44 L 720 44" transform="translate(0,0)" class="snake dash"/>
+</g>
+</svg>

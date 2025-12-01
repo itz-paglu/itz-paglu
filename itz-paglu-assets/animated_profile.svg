@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .float { animation: float 3s ease-in-out infinite; transform-origin: 50% 50%;}
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+      100% { transform: translateY(0px); }
+    }
+    .name { font-family: "Segoe UI", Roboto, Arial; font-weight:700; font-size:20px; fill:#fff; }
+    .sub { font-family: "Segoe UI", Roboto, Arial; font-size:12px; fill:#ddd; }
+  </style>
+  <defs>
+    <linearGradient id="ag" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffd86b"/>
+      <stop offset="100%" stop-color="#ff7eb3"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="120" rx="10" fill="#0f1724"/>
+  <g transform="translate(18,15)" class="float">
+    <circle cx="36" cy="36" r="36" fill="url(#ag)"/>
+    <text x="86" y="30" class="name">TARIKUL ISLAM</text>
+    <text x="86" y="52" class="sub">I am not professional but I learn first and then I build.</text>
+  </g>
+</svg>

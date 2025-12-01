@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff7eb3"/>
+      <stop offset="50%" stop-color="#7afcff"/>
+      <stop offset="100%" stop-color="#845ec2"/>
+    </linearGradient>
+    <filter id="f" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" rx="12" fill="url(#g)"/>
+  <g transform="translate(40,30)">
+    <text x="0" y="70" font-family="Segoe UI, Roboto, Arial" font-size="56" font-weight="700" fill="white">TARIKUL ISLAM</text>
+    <text x="0" y="120" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="white" opacity="0.95">💻 Beginner Programming  •  🤖 AI Enthusiast  •  🐍 Python Lover  •  🇧🇩 From Bangladesh</text>
+    <rect x="0" y="140" width="820" height="6" rx="3" fill="white" opacity="0.12" />
+  </g>
+</svg>
