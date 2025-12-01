@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&height=50&lines=I+am+not+professional+But+I+learn+first+and+then+I+build;Full+Stack+Developer;Python+Enthusiast;Telegram+Bot+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&height=50&lines=I+am+not+professional;But+I+learn+first+and+then+I+build;Full+Stack+Developer;Python+Enthusiast;Telegram+Bot+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
