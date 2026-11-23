@@ -61,7 +61,7 @@
 <img width="90%" src="https://github.com/itz-paglu/itz-paglu/blob/main/itz-paglu-assets/metrics.svg" />
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/itz-paglu/itz-paglu/blob/main/itz-paglu-assets/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/itz-paglu/itz-paglu/output/github-contribution-grid-snake.svg)
 
 </div>
 
